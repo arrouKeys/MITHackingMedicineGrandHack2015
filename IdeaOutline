@@ -1,0 +1,7 @@
+Discharge and Readmittance
+
+  Problem
+There exist information and communication gaps between discharging physicians, ER doctors, and patients; these gaps lead to financial loss to hospitals, patients, and also insurance companies; it also results in a worse outcome and lowered experience for the patient. Patients often possess a lack of understanding (or rather, do not possess the understanding) of their vitals, which leads to an issue of lack of knowledge before a patient makes personal decisions on their health (such as asking for help, when to ask for help, who to contact, etc.), which ultimately lowers quality of life for the patient.
+
+  Solution
+The solution is an automatic, real-time identification of a patient's health condition (as well as tracking readmittance into the ER for care), as well as a communication mechanism between discharging and current care physicians. It also has the capability to track information on vital signs (heart rhythm, blood pressure, temperature, etc) and store that information (along with patterns, and outlying data) to provide valuable diagnosis information to physicians with which to more accurately diagnose underlying causes of symptoms, conditions, and ultimately ER readmittance.
