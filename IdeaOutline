@@ -1,7 +1,0 @@
-Patient Geotracking
-
-  Problem
-There exists information and communication gaps between discharging physicians, ER doctors, and patients. These gaps lead to financial loss to hospitals, patients, and insurance companies; it also results in a worse outcome and lowered experience for the patient. Patients often do not possess the appropriate understanding to make personal decision on their health and treatment (such as asking for help, when to ask for help, who to contact, and more), which ultimately lowers quality of life for the patient.
-
-  Solution
-The solution is an automatic, real-time identification of a patient's location and health condition, as well as a communication mechanism between discharging physician, current care physicians, and related contacts (such as health care proxies or loved ones). This solution also has the capability to track information on vital signs (heart rhythm, blood pressure, temperature, and other related variables) and store that information (along with patterns and outlying data) to provide valuable diagnosis information to physicians with which to more accurately diagnose underlying causes of symptoms, conditions, and ultimately ER readmittance.
