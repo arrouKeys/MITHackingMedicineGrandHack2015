@@ -1,8 +1,6 @@
-# MITGrandHack2015
+## MITGrandHack2015
 
-Project from MIT Hacking Medicine event (24 - 26 April 2015, Massachusetts Institute of Technology). Built in Android Studio using Google Play Services API and Microsoft Band Preview SDK.
-
-*Group Members: Akshara, Brianna, Kyan, Michael, Robert, Robert.*
+**Project from MIT Hacking Medicine event (24 - 26 April 2015, Massachusetts Institute of Technology). Built in Android Studio using Google Play Services API and Microsoft Band Preview SDK.**
 
 Competed with approximately 400 developers, physicians, engineers, and others in a global hacking competition at MIT (Massachusetts Institute of Technology), April 24 - 26. Competed in the Telehealth Track with the goal of transforming care pathways and patient health management through the use of remote technologies.
 
